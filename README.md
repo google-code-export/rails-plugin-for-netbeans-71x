@@ -1,0 +1,1 @@
+rails-plugin-for-netbeans-71x
